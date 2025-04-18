@@ -43,7 +43,7 @@ export default function LandingPage() {
     {
       id: 5,
       question: "Y a-t-il un service de support client disponible ?",
-      answer: "Oui, notre équipe de support est disponible du lundi au vendredi de 9h à 18h. Vous pouvez nous contacter par email à support@jobstudent.ma ou par téléphone au +212 522 123 456. Nous nous efforçons de répondre à toutes les demandes dans un délai de 24 heures."
+      answer: "Oui, notre équipe de support est disponible du lundi au vendredi de 9h à 18h. Vous pouvez nous contacter par email à support@job-maroc.ma ou par téléphone au +212 522 123 456. Nous nous efforçons de répondre à toutes les demandes dans un délai de 24 heures."
     }
   ];
 
@@ -829,7 +829,7 @@ export default function LandingPage() {
           <div className="flex items-start">
             <Mail className="h-5 w-5 text-blue-500 mt-1 flex-shrink-0" />
             <div className="ml-3 text-gray-600">
-              <p>contact@jobstudent.ma</p>
+              <p>contact@job-maroc.ma</p>
             </div>
           </div>
           <div className="flex items-start">
